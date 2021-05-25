@@ -1,0 +1,7 @@
+about:config
+
+
+security.insecure_field_warning.contextual.enabled = false
+security.certerrors.permanentOverride = false
+network.stricttransportsecurity.preloadlist = false
+security.enterprise_roots.enabled = true
