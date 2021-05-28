@@ -2,3 +2,5 @@ https://www.mozilla.org/en-US/firefox/64.0a1/releasenotes/
 
 
 win + r
+
+firefox.exe -p
